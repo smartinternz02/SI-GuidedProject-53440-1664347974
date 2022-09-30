@@ -24,8 +24,8 @@ Virtual Internship - Android Application Development Using Kotlin
 ![Screenshot-5](https://user-images.githubusercontent.com/86054514/193209868-2fed513a-f7b0-4ef0-8896-9f56568699ce.jpg)
 
 #Project Demo Full Video Link-
-https://youtu.be/sSu-5E4gu2s
-*Project Demo Short video-
+https://youtu.be/b5pfY_l5jbw
+* Project Demo Short video-
 https://youtu.be/bpSxWzomjlA
 
 # Downloads 
